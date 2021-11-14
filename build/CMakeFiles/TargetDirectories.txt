@@ -1,0 +1,13 @@
+/home/winter/Facultad/metodos-tp3/build/CMakeFiles/install/strip.dir
+/home/winter/Facultad/metodos-tp3/build/CMakeFiles/install/local.dir
+/home/winter/Facultad/metodos-tp3/build/CMakeFiles/install.dir
+/home/winter/Facultad/metodos-tp3/build/CMakeFiles/list_install_components.dir
+/home/winter/Facultad/metodos-tp3/build/CMakeFiles/rebuild_cache.dir
+/home/winter/Facultad/metodos-tp3/build/CMakeFiles/edit_cache.dir
+/home/winter/Facultad/metodos-tp3/build/CMakeFiles/metnum.dir
+/home/winter/Facultad/metodos-tp3/build/pybind11/CMakeFiles/install.dir
+/home/winter/Facultad/metodos-tp3/build/pybind11/CMakeFiles/list_install_components.dir
+/home/winter/Facultad/metodos-tp3/build/pybind11/CMakeFiles/rebuild_cache.dir
+/home/winter/Facultad/metodos-tp3/build/pybind11/CMakeFiles/edit_cache.dir
+/home/winter/Facultad/metodos-tp3/build/pybind11/CMakeFiles/install/strip.dir
+/home/winter/Facultad/metodos-tp3/build/pybind11/CMakeFiles/install/local.dir
