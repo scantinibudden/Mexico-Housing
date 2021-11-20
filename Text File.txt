@@ -1,0 +1,4 @@
+ 
+.fillna -> escribir datos faltantes
+en una columna
+.dropna -> descartar filas con datos faltantes
